@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-express-practice",
+  "version": "0.1.0",
+  "description": "Practice from Hex-School.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zhang Jin Yu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
